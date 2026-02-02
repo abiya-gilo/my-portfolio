@@ -24,7 +24,7 @@ const projectsData = [
     image: evangadiImg,
     description:
       "A full‑stack MERN discussion forum with authentication, posting, comments, and a modern UI.",
-    demo: "https://evangadi-forum-deploy-0io8.onrender.com",
+    demo: "https://final-evan-forum.vercel.app/",
     github: "https://github.com/abiya-gilo/Evangadi-Forum",
     repo: "abiya-gilo/Evangadi-Forum",
   },
